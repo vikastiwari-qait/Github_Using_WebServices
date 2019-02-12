@@ -13,7 +13,9 @@
 	.title{
 		text-align: center;	
 		font-size: 2rem;
-		font-family: "Comic Sans MS", cursive, sans-serif;
+		font-family: "Comic S<div class="fname">
+   <input type="text" name="fname" placeholder="First Name" class="text">
+   </div>ans MS", cursive, sans-serif;
 		letter-spacing: .8rem;
 		
 	
@@ -49,7 +51,7 @@
 	}
 	
 	.name{
-	display:flex;
+	
 	padding:20px;
 	}
 	.fname{
