@@ -41,7 +41,7 @@
 		display:flex;
 		align-items: center;
 		justify-content: center;
-		background:linear-gradient(to bottom right, #ffff99 0%, #ff99cc 100%);
+		background-color:#6495ed;
 	}
 	.form-container{
 	margin:100px;
@@ -76,7 +76,7 @@
 	width:100%;
 	}
 	header{
-	background:#AAAAAA;
+	background-color:#6495ed;
 	display:flex;
 	
 		
@@ -104,7 +104,7 @@
 	text-align:center;
 	}
 	footer{
-	background:#DDDDDD;
+	background-color:#6495ed;
 	text-align: center;
 	
 	padding:10px;
@@ -112,7 +112,7 @@
 	.main-home{
 	
 	
-    background: linear-gradient(to bottom, #ccffff 0%, #ff99cc 100%);
+    background-color:#6495ed;
 
 	
 	}
