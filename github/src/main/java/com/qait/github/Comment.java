@@ -37,7 +37,7 @@ public class Comment {
     		con.close();  
     		}catch(Exception e){ System.out.println(e);}  
     		  
-    	URI location = new URI("http://localhost:8080/gtihub/home.html");
+    	URI location = new URI("http://localhost:8080/github/home.html");
     	return Response.seeOther(location).build(); 
 
 }
